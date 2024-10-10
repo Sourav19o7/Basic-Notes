@@ -1,4 +1,6 @@
 {
+  "name": "basicNotes-app",
+  "displayName": "basicNotes-app",
   "expo": {
     "name": "basicNotes-app",
     "slug": "basicNotes-app",
